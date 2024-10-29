@@ -1,2 +1,2 @@
 # python_for_datascience
-this reposirtory  for beginner data science
+project ini adalah praktikum dari pelatihan CAKAP Data Science Bacth 7
